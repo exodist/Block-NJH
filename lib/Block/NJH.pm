@@ -24,14 +24,14 @@ broken providing bad results. Many distributions are flooded with invalid
 failure results. Attempts have been made to get this fixed, but so far they are
 still broken.
 
-This module had code that makes it refuse to install on his machines. As a
+This module has code that makes it refuse to install on NJH's machines. As a
 result you simply need to list this module in your prereq's to block him from
 sending bad test reports for your modules.
 
 =head1 SOURCE
 
-The source code repository for App-Inspect can be found at
-F<http://github.com/exodist/App-Inspect/>.
+The source code repository for Block-NJH can be found at
+F<http://github.com/exodist/Block-NJH/>.
 
 =head1 MAINTAINERS
 
